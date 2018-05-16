@@ -1,0 +1,23 @@
+{
+  "name": "tension2detail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tituskubyane/tension2detail.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tituskubyane/tension2detail/issues"
+  },
+  "homepage": "https://github.com/tituskubyane/tension2detail#readme",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "normalize": "^0.3.1"
+  }
+}
